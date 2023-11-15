@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "895835874143",
+    "project_id": "multiple-image-e2c02",
+    "storage_bucket": "multiple-image-e2c02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895835874143:android:0cf3931fdd6f7e20498cea",
+        "android_client_info": {
+          "package_name": "com.example.multipleimage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADU7joLG9CMbp_F-h2zmh5J2BsvPl1Gwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
